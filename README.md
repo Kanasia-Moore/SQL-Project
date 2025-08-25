@@ -2,7 +2,7 @@
 
 ## Overview
 
-A brief description of the project, its purpose, and the key insights or findings. This section should provide a high-level understanding of what the analysis aimed to achieve and what conclusions were drawn.
+This project explores the public dataset using BigQuery and SQL queries to gain insights on the amount of homeless per state and the type and amount of shelters provided. 
 
 ## Data
 
@@ -19,7 +19,7 @@ Information about the dataset:
 - **Sheltered_ES** = Emergency Shelter
 - **Sheltered_TH** = Transitional Housing
 - **Sheltered_SH** = Safe Haven Housing
-
+- The dataset ranges between 2012 and 2018
 
 ## Methodology
 
