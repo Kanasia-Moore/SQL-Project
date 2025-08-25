@@ -3,6 +3,7 @@
 1\. We want to develop some new programs to help unaccompanied homeless children under 18 years old, and need some locations to start some programs. What are the top 3 Continuum of Care areas (CoC\_Name in the table) with the highest number of unaccompanied homeless youth under 18 in the year 2018\.
 
 Answer:  
+
 San Jose/Santa Clara City & County,   
 Oregon Balance of State,  
 Las Vegas/Clark County
@@ -46,7 +47,9 @@ SQL Code Used:
 1. In 2018, how many different locations had at least 1 person as a Sheltered\_SH?
 
 Answer:  
-	90  
+
+90  
+ 
 SQL Code Used:
 
 `SELECT`  
@@ -59,7 +62,8 @@ SQL Code Used:
 
 2. In 2018, what was the CoC\_Name of the top 3 locations in terms of number of Sheltered\_SH?
 
-Answer:  
+Answer:
+
 Philadelphia,  
 Reno, Sparks/Washoe County   
 Indianapolis
@@ -82,6 +86,7 @@ SQL Code Used:
 4\. What are the top 7 states in terms of Overall Homeless population in the year 2018? (Hint: This question will require the use of a GROUP BY clause in your query)
 
 Answer:  
+
 CA  
 NY  
 FL  
