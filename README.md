@@ -1,49 +1,21 @@
-# 👋 Hello, I'm Kanasia Moore!
+# BigQuery Data Exploration Project
 
-Welcome to my GitHub profile! I’m a Data Analyst passionate about transforming data into actionable insights and making a positive impact through analytics. Explore my repositories, discover my projects, and connect with me!
+## Overview
 
----
+A brief, high-level description of the data analysis project, its goals, and the main insights derived.
 
-## 🚀 About Me
-- **Profession:** Data Analyst
-- **Location:** Myrtle Beach, South Carolina
-- **Interests:** Data Analysis, Visualization, and Ethical Data Practices
+## Data Sources
 
----
+Details about the origin of the data used in the analysis.
 
-## 🛠️ Skills & Tools
-- **Languages & Tools:** Spreadsheets, SQL (BigQuery), Tableau, R (RStudio), Excel, Google Sheets
-- **Data Management:** Data Collection, Data Cleaning, Data Structures, Data Analysis, Data Visualization, Data Ethics
-- **Software Platforms:** Microsoft 365 Suite, Google Workspace, Slack, Zoom, Kaggle, Loom
+- **sdoh_hud_pit_homelessness:** [(https://console.cloud.google.com/bigquery?ws=!1m5!1m4!4m3!1sbigquery-public-data!2ssdoh_hud_pit_homelessness!3shud_pit_by_coc)] - [Brief description of the dataset]
 
----
+## Methodology
 
-## 💪 Strengths
-- Problem-Solving
-- Collaboration
-- Attention to Detail
-- Project Management
-- Adaptability
-- Empathy
-- Results-Driven
+Used BigQuery to access data from Homelessness Dataset.
+Created a temporary table to use for my an
 
----
+## Repository Structure
 
-## 🌟 Featured Projects
-- [Excel Project](https://github.com/Kanasia-Moore/Excel-Project-Coming-Soon-.git) 
-- [Capstone Project](https://github.com/Kanasia-Moore/Capstone-Project-Coming-Soon-.git) 
+An outline of the key files and directories within the repository.
 
----
-
-## 📫 Connect With Me
-- **Email:** moorek526@gmail.com
-- **LinkedIn:** [Kanasia Moore](https://www.linkedin.com/in/kanasia-moore-a77063197)
-
----
-
-## 💡 Fun Fact
-- **Fun fact** I'm also an animator and I'm currently learning Korean.
-
----
-
-Thanks for visiting! Feel free to check out my work, leave feedback, or collaborate on something awesome.
